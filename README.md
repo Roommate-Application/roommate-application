@@ -1,4 +1,4 @@
-# roommate_match_application
+# roommate-match-application
 
 The application to find your perfect roommate.
 
